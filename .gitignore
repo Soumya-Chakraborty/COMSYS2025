@@ -88,11 +88,6 @@ tensorboard_logs/
 # val/
 # test/
 
-# Large files
-*.zip
-*.tar.gz
-*.rar
-*.7z
 
 # OS generated files
 .DS_Store
