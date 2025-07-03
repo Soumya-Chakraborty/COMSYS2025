@@ -81,15 +81,6 @@ mlruns/
 runs/
 tensorboard_logs/
 
-# Model outputs
-models/
-outputs/
-results/
-logs/
-plots/
-figures/
-visualizations/
-
 # Data directories (uncomment if data should not be tracked)
 # data/
 # datasets/
